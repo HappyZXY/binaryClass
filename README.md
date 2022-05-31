@@ -1,5 +1,9 @@
 # binaryClass
 
+**基于医学数据的二分类问题，参考**
+
+https://mp.weixin.qq.com/s/JaDCbYVuQe1Jkx6UJST3mg
+
 
 
 ### 一、数据集
