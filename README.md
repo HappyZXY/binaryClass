@@ -1,6 +1,4 @@
-# binaryClass
-
-**基于医学数据的二分类问题，参考**
+基于经典模型和神经网络模型，对医学数据进行二分类。参考
 
 https://mp.weixin.qq.com/s/JaDCbYVuQe1Jkx6UJST3mg
 
